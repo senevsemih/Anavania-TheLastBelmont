@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: 0053aaa4228f5de4dae1e8302011877e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8020792422996973119
+    second: tileset-sliced_0
+  - first:
+      213: 7622575126782243504
+    second: tileset-sliced_1
+  - first:
+      213: -5056025633293989528
+    second: tileset-sliced_2
+  - first:
+      213: 5333720824279054982
+    second: tileset-sliced_3
+  - first:
+      213: -5232436616217831087
+    second: tileset-sliced_4
+  - first:
+      213: 8187979096719078458
+    second: tileset-sliced_5
+  - first:
+      213: -2235941659904884338
+    second: tileset-sliced_6
+  - first:
+      213: 1997914157319707501
+    second: tileset-sliced_0
+  - first:
+      213: 2164539894213471799
+    second: tileset-sliced_1
+  - first:
+      213: -1275552791383333430
+    second: tileset-sliced_2
+  - first:
+      213: 5839361846951417823
+    second: tileset-sliced_3
+  - first:
+      213: -3770211189756424730
+    second: tileset-sliced_4
+  - first:
+      213: 8735695798886929876
+    second: tileset-sliced_5
+  - first:
+      213: -7224206655180338805
+    second: tileset-sliced_6
+  - first:
+      213: -2168684223711406176
+    second: tileset-sliced_7
+  - first:
+      213: -1085757764421800911
+    second: tileset-sliced_8
+  - first:
+      213: 4973835992339445236
+    second: tileset-sliced_9
+  - first:
+      213: -2625335489137864698
+    second: tileset-sliced_10
+  - first:
+      213: 8229570887415758234
+    second: tileset-sliced_11
+  - first:
+      213: 8867161112231138238
+    second: tileset-sliced_12
+  - first:
+      213: -8784487641343689580
+    second: tileset-sliced_13
+  - first:
+      213: -5828040857380144616
+    second: tileset-sliced_14
+  - first:
+      213: 5512922540846680189
+    second: tileset-sliced_15
+  - first:
+      213: -1212771841240213024
+    second: tileset-sliced_16
+  - first:
+      213: 9165148420479917735
+    second: tileset-sliced_17
+  - first:
+      213: -4603852178612683570
+    second: tileset-sliced_18
+  - first:
+      213: 5265570729163935484
+    second: tileset-sliced_19
+  - first:
+      213: -3143653778693314978
+    second: tileset-sliced_20
+  - first:
+      213: -850241531969959492
+    second: tileset-sliced_21
+  - first:
+      213: -2304672727128620705
+    second: tileset-sliced_22
+  - first:
+      213: 4447391927100505344
+    second: tileset-sliced_23
+  - first:
+      213: -5483675960577113276
+    second: tileset-sliced_24
+  - first:
+      213: 2579539874063866950
+    second: tileset-sliced_25
+  - first:
+      213: 2424661989531479048
+    second: tileset-sliced_26
+  - first:
+      213: 8460005599496329479
+    second: tileset-sliced_27
+  - first:
+      213: 4183624679388102006
+    second: tileset-sliced_28
+  - first:
+      213: 6441094262660707957
+    second: tileset-sliced_29
+  - first:
+      213: -3058506490785018268
+    second: tileset-sliced_30
+  - first:
+      213: -5774405334793930303
+    second: tileset-sliced_31
+  - first:
+      213: 6864542464105368374
+    second: tileset-sliced_32
+  - first:
+      213: 6642295835797722845
+    second: tileset-sliced_33
+  - first:
+      213: 7950090198149811095
+    second: tileset-sliced_34
+  - first:
+      213: 6584611610073148787
+    second: tileset-sliced_35
+  - first:
+      213: 7953928647319060498
+    second: tileset-sliced_36
+  - first:
+      213: -2705965462299797424
+    second: tileset-sliced_37
+  - first:
+      213: -4252782480052157552
+    second: tileset-sliced_38
+  - first:
+      213: 4139817615643025436
+    second: tileset-sliced_39
+  - first:
+      213: 3668591595767138898
+    second: tileset-sliced_40
+  - first:
+      213: 3596298000867399806
+    second: tileset-sliced_41
+  - first:
+      213: 1045128459966263314
+    second: tileset-sliced_42
+  - first:
+      213: 4116619017300698554
+    second: tileset-sliced_43
+  - first:
+      213: -3589982636622132726
+    second: tileset-sliced_44
+  - first:
+      213: -8930052257991932378
+    second: tileset-sliced_45
+  - first:
+      213: 4257369742982959978
+    second: tileset-sliced_46
+  - first:
+      213: 5377579401652241825
+    second: tileset-sliced_47
+  - first:
+      213: 8364609108277474705
+    second: tileset-sliced_48
+  - first:
+      213: 400812050444974297
+    second: tileset-sliced_49
+  - first:
+      213: -4564748824263588208
+    second: tileset-sliced_50
+  - first:
+      213: -3781412447517039816
+    second: tileset-sliced_51
+  - first:
+      213: 5182681697396754656
+    second: tileset-sliced_52
+  - first:
+      213: -3140246663281267157
+    second: tileset-sliced_53
+  - first:
+      213: 932243041560661764
+    second: tileset-sliced_54
+  - first:
+      213: -6283606344640301416
+    second: tileset-sliced_55
+  - first:
+      213: 5328591923958208443
+    second: tileset-sliced_56
+  - first:
+      213: 3976022316319362365
+    second: tileset-sliced_57
+  - first:
+      213: 3696824499305643015
+    second: tileset-sliced_58
+  - first:
+      213: -2312856234986826905
+    second: tileset-sliced_59
+  - first:
+      213: 1106084945053415596
+    second: tileset-sliced_60
+  - first:
+      213: 4918240498868846477
+    second: tileset-sliced_61
+  - first:
+      213: -4979070009616143990
+    second: tileset-sliced_62
+  - first:
+      213: 926161850240992034
+    second: tileset-sliced_63
+  - first:
+      213: -3146704295411059684
+    second: tileset-sliced_64
+  - first:
+      213: -8774277277318192404
+    second: tileset-sliced_65
+  - first:
+      213: 7166495999650178258
+    second: tileset-sliced_66
+  - first:
+      213: 5742557075259787895
+    second: tileset-sliced_67
+  - first:
+      213: 3707349414859694009
+    second: tileset-sliced_68
+  - first:
+      213: 8088606010041840484
+    second: tileset-sliced_69
+  - first:
+      213: -4421449474183031779
+    second: tileset-sliced_70
+  - first:
+      213: 337020284799169934
+    second: tileset-sliced_71
+  - first:
+      213: 6269682995807580147
+    second: tileset-sliced_72
+  - first:
+      213: 7621811716864641804
+    second: tileset-sliced_73
+  - first:
+      213: 4521338276816939578
+    second: tileset-sliced_74
+  - first:
+      213: 1989006961078018389
+    second: tileset-sliced_75
+  - first:
+      213: 4296434068114500887
+    second: tileset-sliced_76
+  - first:
+      213: -5382599952528613768
+    second: tileset-sliced_77
+  - first:
+      213: 5618837450191078284
+    second: tileset-sliced_78
+  - first:
+      213: 1594806079736718076
+    second: tileset-sliced_79
+  - first:
+      213: 2473685157054244463
+    second: tileset-sliced_80
+  - first:
+      213: 6823183118975251951
+    second: tileset-sliced_81
+  - first:
+      213: 6179408791814761474
+    second: tileset-sliced_82
+  - first:
+      213: 6941290957853808962
+    second: tileset-sliced_83
+  - first:
+      213: 3088963208085363907
+    second: tileset-sliced_84
+  - first:
+      213: -6126413747580118017
+    second: tileset-sliced_85
+  - first:
+      213: -7392380995848571654
+    second: tileset-sliced_86
+  - first:
+      213: -684317117491450766
+    second: tileset-sliced_87
+  - first:
+      213: -278161941275924621
+    second: tileset-sliced_88
+  - first:
+      213: -4166377659969612683
+    second: tileset-sliced_89
+  - first:
+      213: -1918991173782740438
+    second: tileset-sliced_90
+  - first:
+      213: 3689740884921405071
+    second: tileset-sliced_91
+  - first:
+      213: 5958142582960167905
+    second: tileset-sliced_92
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset-sliced_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bd3c637540abb10800000000000000
+      internalID: 1997914157319707501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e61c8c09df90e10800000000000000
+      internalID: 2164539894213471799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5a6519e735c4ee0800000000000000
+      internalID: -1275552791383333430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7128a59a4990150800000000000000
+      internalID: 5839361846951417823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed8d5af5e48dabc0800000000000000
+      internalID: -3770211189756424730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5178e9b0d6b3970800000000000000
+      internalID: 8735695798886929876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 16
+        width: 148
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8986f592567ebb90800000000000000
+      internalID: -7224206655180338805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 64
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a710bf403947e1e0800000000000000
+      internalID: -2168684223711406176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c248bd01d9ee0f0800000000000000
+      internalID: -1085757764421800911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5f1768b7d960540800000000000000
+      internalID: 4973835992339445236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60016b1484fe09bd0800000000000000
+      internalID: -2625335489137864698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

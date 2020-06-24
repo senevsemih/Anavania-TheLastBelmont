@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 8113f376ccc1de44980aa44712e73041
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4768096234703117868
+    second: burning-ghoul 1_0
+  - first:
+      213: -4819096474917239390
+    second: burning-ghoul 1_1
+  - first:
+      213: 6585493026436031271
+    second: burning-ghoul 1_2
+  - first:
+      213: 7721772189118852218
+    second: burning-ghoul 1_3
+  - first:
+      213: -2635239171393264994
+    second: burning-ghoul 1_4
+  - first:
+      213: -2512150293618698608
+    second: burning-ghoul 1_5
+  - first:
+      213: 5410973392247280442
+    second: burning-ghoul 1_6
+  - first:
+      213: 4279134858817276362
+    second: burning-ghoul 1_7
+  - first:
+      213: 5898285034807170600
+    second: burning-ghoul 1_8
+  - first:
+      213: 4755179343874869562
+    second: burning-ghoul 1_1
+  - first:
+      213: -7620220495950237194
+    second: burning-ghoul 1_2
+  - first:
+      213: -7236474834299493695
+    second: burning-ghoul 1_3
+  - first:
+      213: -1926628017156514135
+    second: burning-ghoul 1_5
+  - first:
+      213: 6915359394990054843
+    second: burning-ghoul 1_6
+  - first:
+      213: -355319880125801823
+    second: burning-ghoul 1_14
+  - first:
+      213: -4331254225405330471
+    second: burning-ghoul 1_15
+  - first:
+      213: 7843663477860061661
+    second: burning-ghoul 1_7
+  - first:
+      213: -244955449683050343
+    second: burning-ghoul 1_17
+  - first:
+      213: 2064340372010593078
+    second: burning-ghoul 1_0
+  - first:
+      213: -6400967757263964665
+    second: burning-ghoul 1_4
+  - first:
+      213: 4755179343874869562
+    second: burning-ghoul 1_9
+  - first:
+      213: -7620220495950237194
+    second: burning-ghoul 1_10
+  - first:
+      213: -7236474834299493695
+    second: burning-ghoul 1_11
+  - first:
+      213: -1926628017156514135
+    second: burning-ghoul 1_12
+  - first:
+      213: 6915359394990054843
+    second: burning-ghoul 1_13
+  - first:
+      213: 7843663477860061661
+    second: burning-ghoul 1_16
+  - first:
+      213: 2064340372010593078
+    second: burning-ghoul 1_18
+  - first:
+      213: -6400967757263964665
+    second: burning-ghoul 1_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: burning-ghoul 1_1
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39cfe25b6acdf140800000000000000
+      internalID: 4755179343874869562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-ghoul 1_2
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 30
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f13cb425d98f3690800000000000000
+      internalID: -7620220495950237194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-ghoul 1_3
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 35
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2668b8a70e29b90800000000000000
+      internalID: -7236474834299493695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-ghoul 1_5
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 25
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae121fa60e3345e0800000000000000
+      internalID: -1926628017156514135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-ghoul 1_6
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 0
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdda880bba48ff50800000000000000
+      internalID: 6915359394990054843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-ghoul 1_7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 33
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1dd87206a4adc60800000000000000
+      internalID: 7843663477860061661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-ghoul 1_0
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b603981a206ac10800000000000000
+      internalID: 2064340372010593078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-ghoul 1_4
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 0
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7067d811db13b27a0800000000000000
+      internalID: -6400967757263964665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
